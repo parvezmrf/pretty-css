@@ -1,0 +1,68 @@
+small {
+    color: rgb(188, 19, 255);
+}
+
+h1 {
+    color: #ff00ff;
+    font-family: cursive;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    color: rgb(255, 0, 85);
+    font-size: 25px;
+}
+
+.blogcox {
+    background-color: rgb(255, 242, 189);
+    border: 5px solid #afff0f;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.blogsundorban {
+    background-color: rgb(255, 235, 154);
+    border: 5px solid #aaff00;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.blog {
+    background-color: #ffe26e;
+    border: 10px solid #2bff00;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 50px;
+}
+
+.author-name {
+    color: rgb(255, 0, 106);
+    font-style: italic;
+    background-color: #ffdb4c;
+    font-weight: bold;
+}
+
+.blog p {
+    color: orangered;
+    font-size: 20px;
+}
+
+img {
+    height: 40%;
+    
+}
+
+div p{
+font-style: italic;
+text-align:justify;
+
+}
+img{
+width: 60%;
+}
